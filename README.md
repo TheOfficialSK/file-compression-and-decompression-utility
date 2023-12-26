@@ -1,5 +1,3 @@
-# your-zippers-down
-
 MadZip is a lightweight, high-performance file compression and decompression utility. It uses the efficient Huffman coding algorithm to compress files, significantly reducing file sizes while maintaining file integrity. MadZip is easy to integrate into any project and features a simple command-line interface for quick file operations.
 
 # Key Features
