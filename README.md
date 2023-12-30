@@ -45,5 +45,3 @@ import madzip.MadZip;
 MadZip madZip = new MadZip();
 madZip.decompress("input.madzip", "output.txt");
 ```
-
-For more detailed examples and usage instructions, please refer to the included README file and Javadoc documentation.
